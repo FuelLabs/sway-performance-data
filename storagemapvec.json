@@ -1,1 +1,0 @@
-[{"phase":"build_config","elapsed":2.785e-6},{"phase":"compile_to_ast","elapsed":1.248234992},{"phase":"compile_ast_to_asm","elapsed":0.000781861},{"phase":"generate_json_abi","elapsed":7.61e-7},{"phase":"compile_asm_to_bytecode","elapsed":0.00001066}]
