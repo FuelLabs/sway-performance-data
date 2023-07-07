@@ -1,0 +1,44 @@
+{
+  "phases": {
+    "bytecode_size": 28,
+    "metrics": [
+      {
+        "phase": "parse_cst",
+        "elapsed": 0.059745396,
+        "memory_usage": 1371422720
+      },
+      {
+        "phase": "parse_ast",
+        "elapsed": 2.030184456,
+        "memory_usage": 1371422720
+      },
+      {
+        "phase": "compile_to_ast",
+        "elapsed": 2.090399552,
+        "memory_usage": 1371422720
+      },
+      {
+        "phase": "compile_ast_to_asm",
+        "elapsed": 0.018629499,
+        "memory_usage": 1371422720
+      },
+      {
+        "phase": "generate_json_abi",
+        "elapsed": 1e-06,
+        "memory_usage": 1371422720
+      },
+      {
+        "phase": "compile_asm_to_bytecode",
+        "elapsed": 2.72e-05,
+        "memory_usage": 1371422720
+      }
+    ]
+  },
+  "elapsed": "19.65",
+  "cpu_usage": "93%",
+  "memory": "458008KB",
+  "build_type": "debug",
+  "sway_apps_revision": "0cae5fcfd11431dda70431d667fcf7a6a45454d4",
+  "sway_libs_revision": "c6ed898128cc516fab72d924854ad41fa0be3cb1",
+  "sway_git_revision": "8491be8d32d6f03c6e18407b6a321c80405625eb"
+}
