@@ -1,0 +1,1 @@
+{"bytecode_size":28,"metrics":[{"phase":"compile_to_ast","elapsed":12.088957322,"memory_usage":2012979200},{"phase":"compile_ast_to_asm","elapsed":0.003520437,"memory_usage":2012979200},{"phase":"generate_json_abi","elapsed":1.022e-6,"memory_usage":2012979200},{"phase":"compile_asm_to_bytecode","elapsed":0.00002671,"memory_usage":2012979200}],"reused_modules":0}
