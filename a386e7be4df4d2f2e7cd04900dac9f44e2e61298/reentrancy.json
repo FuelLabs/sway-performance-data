@@ -1,0 +1,35 @@
+{
+  "phases": {
+    "bytecode_size": 28,
+    "metrics": [
+      {
+        "phase": "compile_to_ast",
+        "elapsed": 0.039660745,
+        "memory_usage": 2937819136
+      },
+      {
+        "phase": "compile_ast_to_asm",
+        "elapsed": 0.004224091,
+        "memory_usage": 2937819136
+      },
+      {
+        "phase": "generate_json_abi",
+        "elapsed": 5.71e-07,
+        "memory_usage": 2937819136
+      },
+      {
+        "phase": "compile_asm_to_bytecode",
+        "elapsed": 2.4957e-05,
+        "memory_usage": 2937819136
+      }
+    ],
+    "reused_modules": 0
+  },
+  "elapsed": "28.44",
+  "cpu_usage": "99%",
+  "memory": "1862224KB",
+  "build_type": "debug",
+  "sway_apps_revision": "51d2171d0228a469bf45a5af51fdc1f8a1b6d3c7",
+  "sway_libs_revision": "c6ed898128cc516fab72d924854ad41fa0be3cb1",
+  "sway_git_revision": "a386e7be4df4d2f2e7cd04900dac9f44e2e61298"
+}
